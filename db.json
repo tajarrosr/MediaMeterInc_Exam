@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "ritchmond",
+      "email": "ritchmond@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 2,
+      "username": "james",
+      "email": "james@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 3,
+      "username": "tajarros",
+      "email": "tajarros@gmail.com",
+      "password": "1234"
+    }
+  ],
+  "timeRecords": [
+    {
+      "id": 1,
+      "employeeId": 1,
+      "date": "2025-07-14",
+      "timeIn": "08:00",
+      "timeOut": "17:00"
+    },
+    {
+      "id": 2,
+      "employeeId": 1,
+      "date": "2025-07-15",
+      "timeIn": "08:10",
+      "timeOut": "17:20"
+    },
+    {
+      "id": 3,
+      "employeeId": 2,
+      "date": "2025-07-15",
+      "timeIn": "09:00",
+      "timeOut": "18:00"
+    },
+    {
+      "id": "9d51",
+      "employeeId": 3,
+      "date": "2025-07-16",
+      "timeIn": "13:28",
+      "timeOut": "13:28"
+    },
+    {
+      "id": "f7e1",
+      "employeeId": 1,
+      "date": "2025-07-16",
+      "timeIn": "13:50",
+      "timeOut": "14:01"
+    }
+  ]
+}
